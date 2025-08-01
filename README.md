@@ -1,8 +1,7 @@
 **Nike Sales Analysis in Power BI**
 
-<img width="1470" height="814" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/0c65f68f-9721-4777-924f-135b46da1da0" />
-<img width="1431" height="805" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/8e7365f1-a174-41cf-82cf-f7a03e51ffe8" />
-
+<img width="1339" height="737" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/d1ee2a46-c387-4050-9e8b-bc691b603c8b" />
+<img width="1341" height="747" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/8e22c06b-9eae-42f1-9645-38a81ffc786c" />
 
 🔧 Data Cleaning Highlights (Power Query + DAX):
 • Removed duplicates and nulls
@@ -16,4 +15,4 @@
 • Channel and Gender-Based Performance
 • YoY Revenue Growth 📈 (85.39%)
 
-Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiZjdjZGFiNDktYTE1ZS00YTJmLTlhZDMtZDg3ZjZiYWFmMDAzIiwidCI6ImFmZmM4YTIyLWY1ZDMtNDA4Zi05NThlLWFiOTY0ODI3YmU5OSJ9
+Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMWM2YjAwYTQtZmU5Yi00ZjUxLWJhYjItOGNiMjgzNDYxNTY4IiwidCI6ImFmZmM4YTIyLWY1ZDMtNDA4Zi05NThlLWFiOTY0ODI3YmU5OSJ9
